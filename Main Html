@@ -1,0 +1,103 @@
+<html>
+    <title>Video Games Reviews</title>
+    
+    <script> <!-- ignore -->
+        var canvas = document.getElementById("myCanvas");
+        var ctx = canvas.getContext("2d");
+        ctx.fillStyle = "#FF0000";
+        ctx.fillRect(0, 0, 80, 80);
+    </script>
+
+        <style>
+    body {
+        background: rgb(0,0,0);
+        color: rgb(255,255,255);
+        border-style: dotted;
+    }
+    p {
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        background: yellow;
+        color: black;
+        border-style: dotted;
+    }
+    h1 {
+        font-size: 50px;
+        color:white;
+        font-weight: bold;
+    }
+    h2 {
+        font-size: 30px;
+        color: white;
+    }
+    img {
+        margin: center;
+        width: 1250;
+        height: 1000;
+    }
+    </style>
+    
+    <body>
+        <p style="text-align:center">
+            <b>Video Games Reviews</b>
+        </p>
+        <hr>
+        <h1 style="text-align:center">
+            1. Fortnite
+        </h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLInVx2_-0ElcneVLQ_6eZYdzLfdi3-jd6cZTHAJIB1xz2dRaaBUi582-uunmH30oHnvo:https://assets1.ignimgs.com/2018/03/06/fortnite---button-1520296499714.jpg&usqp=CAU"  style=text-align:center;>
+        <h2 style="text-align:center">
+            <i>Fortnite is a <b>dead</b> game, and always be a dead game but I guess we shall give it a review.</i>
+        </h2>
+    </body>
+    <table border=4 style=margin-left:auto;margin-right:auto;border-style:dotted;>
+  <tr>
+    <td><b>Feature's</b></td>
+    <td><b>Rating!</b></td>
+    <td style="text-align:center"><b>Why?</b></td>
+  </tr>
+  <tr>
+    <td>Zombies</td>
+    <td style="text-align:center">7/10</td>
+    <td>Why? well sometimes its just annoying to have zombies attacking you sometimes when u dont expect it</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">Skins</td>
+    <td style="text-align:center">7.5/10</td>
+    <td style="text-align:center">Thought there alwsome and look nice, thye inted to make kids like think <b>THEY NEED ONE</b> to be <i>"cool"</i></td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="text-align:center">Battle Pass</td>
+    <td style="text-align:center">4/10</td>
+    <td style="text-align:center"><b>Ima make this simple</b>, the battle pass is like the skins but it makes kids steal there parents credit card to get it just to be <i>"cool"</i> what is up with trying to be cool -_-</td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+    <td style="text-align:center">-</td>
+  </tr>
+</table>
+    
+    
+</html>
